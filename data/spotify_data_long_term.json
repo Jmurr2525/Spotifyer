@@ -1,0 +1,1135 @@
+[
+    {
+        "track_id": "59wlTaYOL5tDUgXnbBQ3my",
+        "track_name": "A Moment Apart",
+        "artist_name": "ODESZA",
+        "genres": [
+            "chillwave",
+            "edm",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.515,
+            "energy": 0.663,
+            "key": 7,
+            "loudness": -7.896,
+            "mode": 0,
+            "speechiness": 0.0328,
+            "acousticness": 0.179,
+            "instrumentalness": 0.668,
+            "liveness": 0.494,
+            "valence": 0.0756,
+            "tempo": 120.024
+        }
+    },
+    {
+        "track_id": "3kxkjirben9RVm9NqYa6rm",
+        "track_name": "Black Out Days - Future Islands Remix",
+        "artist_name": "Phantogram",
+        "genres": [
+            "indietronica",
+            "metropopolis",
+            "neo-synthpop"
+        ],
+        "audio_features": {
+            "danceability": 0.477,
+            "energy": 0.483,
+            "key": 4,
+            "loudness": -9.413,
+            "mode": 0,
+            "speechiness": 0.0364,
+            "acousticness": 0.0027,
+            "instrumentalness": 0.783,
+            "liveness": 0.156,
+            "valence": 0.123,
+            "tempo": 170.026
+        }
+    },
+    {
+        "track_id": "1UL8GkVAs6UcWF6BZ3DYZt",
+        "track_name": "Closer to the Sun",
+        "artist_name": "Slightly Stoopid",
+        "genres": [
+            "reggae fusion",
+            "reggae rock"
+        ],
+        "audio_features": {
+            "danceability": 0.572,
+            "energy": 0.728,
+            "key": 7,
+            "loudness": -5.534,
+            "mode": 1,
+            "speechiness": 0.0275,
+            "acousticness": 0.203,
+            "instrumentalness": 0.00263,
+            "liveness": 0.231,
+            "valence": 0.535,
+            "tempo": 75.179
+        }
+    },
+    {
+        "track_id": "3GdogCZTpPHBODiiEJbqQm",
+        "track_name": "Teardrops",
+        "artist_name": "NEIL FRANCES",
+        "genres": [
+            "indie soul"
+        ],
+        "audio_features": {
+            "danceability": 0.87,
+            "energy": 0.72,
+            "key": 11,
+            "loudness": -7.679,
+            "mode": 1,
+            "speechiness": 0.0413,
+            "acousticness": 0.17,
+            "instrumentalness": 0.0908,
+            "liveness": 0.0686,
+            "valence": 0.832,
+            "tempo": 92.006
+        }
+    },
+    {
+        "track_id": "3q6ygCZID0OKj6MUxInB48",
+        "track_name": "Lil Thing",
+        "artist_name": "Knox Fortune",
+        "genres": [
+            "chicago indie"
+        ],
+        "audio_features": {
+            "danceability": 0.713,
+            "energy": 0.755,
+            "key": 7,
+            "loudness": -4.577,
+            "mode": 1,
+            "speechiness": 0.151,
+            "acousticness": 0.262,
+            "instrumentalness": 0.000114,
+            "liveness": 0.0947,
+            "valence": 0.625,
+            "tempo": 155.939
+        }
+    },
+    {
+        "track_id": "1a5Hi6hk75ftgzAVMkj5Lw",
+        "track_name": "If There's Time",
+        "artist_name": "ODESZA",
+        "genres": [
+            "chillwave",
+            "edm",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.47,
+            "energy": 0.633,
+            "key": 10,
+            "loudness": -9.323,
+            "mode": 0,
+            "speechiness": 0.0323,
+            "acousticness": 0.0016,
+            "instrumentalness": 0.00453,
+            "liveness": 0.257,
+            "valence": 0.149,
+            "tempo": 140.12
+        }
+    },
+    {
+        "track_id": "07KAToiEVIKU7WvXkoTWQR",
+        "track_name": "Breezeblocks - Tinlicker Remix",
+        "artist_name": "alt-J",
+        "genres": [
+            "indie rock",
+            "indietronica",
+            "modern alternative rock",
+            "modern rock",
+            "rock"
+        ],
+        "audio_features": {
+            "danceability": 0.569,
+            "energy": 0.887,
+            "key": 2,
+            "loudness": -6.477,
+            "mode": 0,
+            "speechiness": 0.0363,
+            "acousticness": 0.00219,
+            "instrumentalness": 0.0638,
+            "liveness": 0.576,
+            "valence": 0.139,
+            "tempo": 123.005
+        }
+    },
+    {
+        "track_id": "10eJrY01y41xnCsDMCcsQG",
+        "track_name": "Daylight",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.66,
+            "energy": 0.459,
+            "key": 0,
+            "loudness": -8.973,
+            "mode": 1,
+            "speechiness": 0.0294,
+            "acousticness": 0.308,
+            "instrumentalness": 0.000903,
+            "liveness": 0.0996,
+            "valence": 0.188,
+            "tempo": 119.959
+        }
+    },
+    {
+        "track_id": "3Gvxk7y3zY13o7EPJECNyM",
+        "track_name": "Oh! Frenchy",
+        "artist_name": "Mosie",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.654,
+            "energy": 0.602,
+            "key": 4,
+            "loudness": -6.577,
+            "mode": 0,
+            "speechiness": 0.103,
+            "acousticness": 0.651,
+            "instrumentalness": 0,
+            "liveness": 0.0671,
+            "valence": 0.663,
+            "tempo": 78.033
+        }
+    },
+    {
+        "track_id": "3hxIUxnT27p5WcmjGUXNwx",
+        "track_name": "Shut up My Moms Calling",
+        "artist_name": "Hotel Ugly",
+        "genres": [
+            "modern indie pop"
+        ],
+        "audio_features": {
+            "danceability": 0.485,
+            "energy": 0.409,
+            "key": 9,
+            "loudness": -10.711,
+            "mode": 0,
+            "speechiness": 0.101,
+            "acousticness": 0.325,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "valence": 0.376,
+            "tempo": 138.419
+        }
+    },
+    {
+        "track_id": "2s7pyee9w04uQy3cNKzey9",
+        "track_name": "Mykonos",
+        "artist_name": "Fleet Foxes",
+        "genres": [
+            "chamber pop",
+            "folk",
+            "indie folk",
+            "indie rock",
+            "indietronica",
+            "modern rock",
+            "seattle indie",
+            "singer-songwriter",
+            "stomp and holler"
+        ],
+        "audio_features": {
+            "danceability": 0.3,
+            "energy": 0.452,
+            "key": 11,
+            "loudness": -9.298,
+            "mode": 1,
+            "speechiness": 0.0305,
+            "acousticness": 0.395,
+            "instrumentalness": 0.000834,
+            "liveness": 0.137,
+            "valence": 0.342,
+            "tempo": 82.985
+        }
+    },
+    {
+        "track_id": "6UqjaI4yIo2uA0kA6ej8ui",
+        "track_name": "Lost in the Cold",
+        "artist_name": "Twiddle",
+        "genres": [
+            "funk rock",
+            "jam band"
+        ],
+        "audio_features": {
+            "danceability": 0.356,
+            "energy": 0.709,
+            "key": 0,
+            "loudness": -4.684,
+            "mode": 1,
+            "speechiness": 0.0507,
+            "acousticness": 0.523,
+            "instrumentalness": 0,
+            "liveness": 0.201,
+            "valence": 0.532,
+            "tempo": 167.155
+        }
+    },
+    {
+        "track_id": "4wHkfOTO5XpTrVn1bHxR18",
+        "track_name": "Dream Space",
+        "artist_name": "DVRST",
+        "genres": [
+            "chill phonk",
+            "drift phonk"
+        ],
+        "audio_features": {
+            "danceability": 0.781,
+            "energy": 0.696,
+            "key": 2,
+            "loudness": -6.069,
+            "mode": 1,
+            "speechiness": 0.113,
+            "acousticness": 0.137,
+            "instrumentalness": 0.00424,
+            "liveness": 0.573,
+            "valence": 0.293,
+            "tempo": 107.996
+        }
+    },
+    {
+        "track_id": "4nlvKIIetOWGIMyhjQXgOZ",
+        "track_name": "The Difference",
+        "artist_name": "Flume",
+        "genres": [
+            "australian dance",
+            "australian electropop",
+            "australian indie",
+            "downtempo",
+            "edm",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.56,
+            "energy": 0.865,
+            "key": 1,
+            "loudness": -1.148,
+            "mode": 1,
+            "speechiness": 0.0909,
+            "acousticness": 0.255,
+            "instrumentalness": 0.000153,
+            "liveness": 0.083,
+            "valence": 0.424,
+            "tempo": 159.96
+        }
+    },
+    {
+        "track_id": "5rpx047aanR0h9Rfp1wgBB",
+        "track_name": "Innerbloom",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.729,
+            "energy": 0.72,
+            "key": 3,
+            "loudness": -6.69,
+            "mode": 1,
+            "speechiness": 0.0371,
+            "acousticness": 0.125,
+            "instrumentalness": 0.353,
+            "liveness": 0.178,
+            "valence": 0.0388,
+            "tempo": 122.015
+        }
+    },
+    {
+        "track_id": "5XlvOh5YbJMp7CU3NoksNf",
+        "track_name": "Leaving",
+        "artist_name": "ILLENIUM",
+        "genres": [
+            "edm",
+            "melodic dubstep",
+            "pop dance"
+        ],
+        "audio_features": {
+            "danceability": 0.302,
+            "energy": 0.64,
+            "key": 11,
+            "loudness": -3.452,
+            "mode": 1,
+            "speechiness": 0.0379,
+            "acousticness": 0.0359,
+            "instrumentalness": 1.66e-05,
+            "liveness": 0.951,
+            "valence": 0.184,
+            "tempo": 139.793
+        }
+    },
+    {
+        "track_id": "4kHHBrUi49P8KWjmpLXJqb",
+        "track_name": "Borderlands 2 - This Ain't No Place For No Hero ( Short Change Hero) - Main Theme",
+        "artist_name": "Geek Music",
+        "genres": [
+            "theme"
+        ],
+        "audio_features": {
+            "danceability": 0.785,
+            "energy": 0.283,
+            "key": 11,
+            "loudness": -11.739,
+            "mode": 1,
+            "speechiness": 0.033,
+            "acousticness": 0.872,
+            "instrumentalness": 0.000102,
+            "liveness": 0.173,
+            "valence": 0.438,
+            "tempo": 105.968
+        }
+    },
+    {
+        "track_id": "5AKYyNPYhumqKeOMhdEgQO",
+        "track_name": "I Saw You Close Your Eyes",
+        "artist_name": "Local Natives",
+        "genres": [
+            "chamber pop",
+            "indie rock",
+            "la indie",
+            "modern rock",
+            "shimmer pop",
+            "stomp and holler"
+        ],
+        "audio_features": {
+            "danceability": 0.385,
+            "energy": 0.604,
+            "key": 9,
+            "loudness": -6.709,
+            "mode": 1,
+            "speechiness": 0.0321,
+            "acousticness": 0.0753,
+            "instrumentalness": 1.27e-05,
+            "liveness": 0.718,
+            "valence": 0.251,
+            "tempo": 77.468
+        }
+    },
+    {
+        "track_id": "01TyFEZu6mHbffsVfxgrFn",
+        "track_name": "Show Me How",
+        "artist_name": "Men I Trust",
+        "genres": [
+            "indie pop",
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.791,
+            "energy": 0.267,
+            "key": 5,
+            "loudness": -11.997,
+            "mode": 1,
+            "speechiness": 0.0415,
+            "acousticness": 0.674,
+            "instrumentalness": 0.534,
+            "liveness": 0.102,
+            "valence": 0.544,
+            "tempo": 165.99
+        }
+    },
+    {
+        "track_id": "5XFoaqV1Z8XaLJidchVWhh",
+        "track_name": "love.",
+        "artist_name": "Kid Cudi",
+        "genres": [
+            "hip hop",
+            "ohio hip hop",
+            "pop rap",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.574,
+            "energy": 0.736,
+            "key": 5,
+            "loudness": -4.743,
+            "mode": 1,
+            "speechiness": 0.0465,
+            "acousticness": 0.146,
+            "instrumentalness": 1.66e-05,
+            "liveness": 0.407,
+            "valence": 0.344,
+            "tempo": 138.501
+        }
+    },
+    {
+        "track_id": "7vptmeNwSEVkcwDdqk7UQO",
+        "track_name": "Lauren",
+        "artist_name": "Men I Trust",
+        "genres": [
+            "indie pop",
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.762,
+            "energy": 0.503,
+            "key": 9,
+            "loudness": -9.397,
+            "mode": 0,
+            "speechiness": 0.0308,
+            "acousticness": 0.777,
+            "instrumentalness": 0.17,
+            "liveness": 0.115,
+            "valence": 0.558,
+            "tempo": 96.999
+        }
+    },
+    {
+        "track_id": "7qpxOyuSMsEE7fLduKPOu2",
+        "track_name": "I Got Soul",
+        "artist_name": "LeRoyce",
+        "genres": [
+            "dfw rap",
+            "jazz rap"
+        ],
+        "audio_features": {
+            "danceability": 0.57,
+            "energy": 0.477,
+            "key": 11,
+            "loudness": -10.609,
+            "mode": 1,
+            "speechiness": 0.385,
+            "acousticness": 0.0689,
+            "instrumentalness": 0,
+            "liveness": 0.202,
+            "valence": 0.185,
+            "tempo": 147.598
+        }
+    },
+    {
+        "track_id": "65sNrvOp2HLlhGTeLJ0nnk",
+        "track_name": "Being so Normal",
+        "artist_name": "Peach Pit",
+        "genres": [
+            "pov: indie",
+            "vancouver indie"
+        ],
+        "audio_features": {
+            "danceability": 0.541,
+            "energy": 0.583,
+            "key": 6,
+            "loudness": -8.886,
+            "mode": 0,
+            "speechiness": 0.0507,
+            "acousticness": 0.674,
+            "instrumentalness": 0.00583,
+            "liveness": 0.125,
+            "valence": 0.295,
+            "tempo": 148.162
+        }
+    },
+    {
+        "track_id": "2Zv95uoSB1H4puVfAYbovF",
+        "track_name": "Undertow",
+        "artist_name": "Dan Auerbach",
+        "genres": [
+            "modern blues rock"
+        ],
+        "audio_features": {
+            "danceability": 0.434,
+            "energy": 0.726,
+            "key": 7,
+            "loudness": -5.482,
+            "mode": 0,
+            "speechiness": 0.033,
+            "acousticness": 0.0351,
+            "instrumentalness": 0.288,
+            "liveness": 0.476,
+            "valence": 0.7,
+            "tempo": 92.751
+        }
+    },
+    {
+        "track_id": "2Lumsra3kuU61wXkEKzKaK",
+        "track_name": "Disco",
+        "artist_name": "Surf Curse",
+        "genres": [
+            "dreamo",
+            "indie surf",
+            "pov: indie",
+            "surf punk",
+            "vegas indie"
+        ],
+        "audio_features": {
+            "danceability": 0.473,
+            "energy": 0.621,
+            "key": 11,
+            "loudness": -8.698,
+            "mode": 0,
+            "speechiness": 0.0291,
+            "acousticness": 0.0253,
+            "instrumentalness": 0.000366,
+            "liveness": 0.19,
+            "valence": 0.782,
+            "tempo": 173.083
+        }
+    },
+    {
+        "track_id": "0aNyg1TBJXQlmDeg2pGmcu",
+        "track_name": "All This - Pyramid Remix",
+        "artist_name": "Point Point",
+        "genres": [
+            "vapor twitch"
+        ],
+        "audio_features": {
+            "danceability": 0.623,
+            "energy": 0.874,
+            "key": 10,
+            "loudness": -7.064,
+            "mode": 1,
+            "speechiness": 0.0341,
+            "acousticness": 0.0069,
+            "instrumentalness": 0.755,
+            "liveness": 0.153,
+            "valence": 0.0753,
+            "tempo": 119.974
+        }
+    },
+    {
+        "track_id": "1VJgMkxFY3JSgiUWZNeycd",
+        "track_name": "Until the Sun Needs to Rise",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.726,
+            "energy": 0.691,
+            "key": 8,
+            "loudness": -8.033,
+            "mode": 1,
+            "speechiness": 0.0337,
+            "acousticness": 0.011,
+            "instrumentalness": 0.294,
+            "liveness": 0.0916,
+            "valence": 0.118,
+            "tempo": 119.996
+        }
+    },
+    {
+        "track_id": "3fOTE7xglLPn15SrPj7kxq",
+        "track_name": "You Don't Have To Change",
+        "artist_name": "Kool & The Gang",
+        "genres": [
+            "disco",
+            "funk",
+            "motown",
+            "soft rock",
+            "soul"
+        ],
+        "audio_features": {
+            "danceability": 0.491,
+            "energy": 0.338,
+            "key": 2,
+            "loudness": -16.102,
+            "mode": 1,
+            "speechiness": 0.0519,
+            "acousticness": 0.571,
+            "instrumentalness": 0.0599,
+            "liveness": 0.248,
+            "valence": 0.167,
+            "tempo": 79.582
+        }
+    },
+    {
+        "track_id": "5NsruZ9uIydV0A196WZjkV",
+        "track_name": "Hyperreal",
+        "artist_name": "Flume",
+        "genres": [
+            "australian dance",
+            "australian electropop",
+            "australian indie",
+            "downtempo",
+            "edm",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.675,
+            "energy": 0.843,
+            "key": 11,
+            "loudness": -5.205,
+            "mode": 0,
+            "speechiness": 0.3,
+            "acousticness": 0.0358,
+            "instrumentalness": 0.064,
+            "liveness": 0.152,
+            "valence": 0.536,
+            "tempo": 110.034
+        }
+    },
+    {
+        "track_id": "7LOR8Rdc5n2EkduOXZeTp6",
+        "track_name": "Amend",
+        "artist_name": "j^p^n",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.383,
+            "energy": 0.563,
+            "key": 1,
+            "loudness": -9.648,
+            "mode": 1,
+            "speechiness": 0.255,
+            "acousticness": 0.535,
+            "instrumentalness": 3.22e-05,
+            "liveness": 0.196,
+            "valence": 0.584,
+            "tempo": 158.512
+        }
+    },
+    {
+        "track_id": "1DSnG32XcPhmY0rg60UKjP",
+        "track_name": "Me and My Synths",
+        "artist_name": "Scubadiver",
+        "genres": [
+            "chill abstract hip hop"
+        ],
+        "audio_features": {
+            "danceability": 0.57,
+            "energy": 0.862,
+            "key": 4,
+            "loudness": -4.117,
+            "mode": 0,
+            "speechiness": 0.0536,
+            "acousticness": 0.0127,
+            "instrumentalness": 0.000253,
+            "liveness": 0.0376,
+            "valence": 0.102,
+            "tempo": 113.991
+        }
+    },
+    {
+        "track_id": "204t5SErksNRHRhU52g5JF",
+        "track_name": "Oncle Jazz",
+        "artist_name": "Men I Trust",
+        "genres": [
+            "indie pop",
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.712,
+            "energy": 0.308,
+            "key": 0,
+            "loudness": -16.776,
+            "mode": 0,
+            "speechiness": 0.0519,
+            "acousticness": 0.535,
+            "instrumentalness": 0.816,
+            "liveness": 0.0813,
+            "valence": 0.246,
+            "tempo": 139.995
+        }
+    },
+    {
+        "track_id": "3Bz3lj6E9VFBk1Wj1hC8vw",
+        "track_name": "Sleeping Lessons",
+        "artist_name": "The Shins",
+        "genres": [
+            "albuquerque indie",
+            "alternative rock",
+            "canadian indie",
+            "chamber pop",
+            "indie pop",
+            "indie rock",
+            "modern rock",
+            "portland indie",
+            "seattle indie",
+            "stomp and holler"
+        ],
+        "audio_features": {
+            "danceability": 0.51,
+            "energy": 0.498,
+            "key": 4,
+            "loudness": -8.993,
+            "mode": 1,
+            "speechiness": 0.0347,
+            "acousticness": 0.167,
+            "instrumentalness": 0.00498,
+            "liveness": 0.13,
+            "valence": 0.167,
+            "tempo": 115.011
+        }
+    },
+    {
+        "track_id": "5GeIdhQ2HZ86I9HsQwvRAP",
+        "track_name": "Kingdom Leader",
+        "artist_name": "Boo Seeka",
+        "genres": [
+            "aussietronica",
+            "australian indie"
+        ],
+        "audio_features": {
+            "danceability": 0.584,
+            "energy": 0.842,
+            "key": 9,
+            "loudness": -4.35,
+            "mode": 0,
+            "speechiness": 0.0401,
+            "acousticness": 0.497,
+            "instrumentalness": 0.000277,
+            "liveness": 0.0804,
+            "valence": 0.735,
+            "tempo": 162.031
+        }
+    },
+    {
+        "track_id": "33R3swWziWYmnDYvZqcZVS",
+        "track_name": "Crystalised",
+        "artist_name": "The xx",
+        "genres": [
+            "downtempo",
+            "dream pop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.762,
+            "energy": 0.484,
+            "key": 11,
+            "loudness": -12.368,
+            "mode": 0,
+            "speechiness": 0.0311,
+            "acousticness": 0.812,
+            "instrumentalness": 0.389,
+            "liveness": 0.0841,
+            "valence": 0.415,
+            "tempo": 122.916
+        }
+    },
+    {
+        "track_id": "65r94rVdiMwqXyQFEr3tqT",
+        "track_name": "Resonance",
+        "artist_name": "Home",
+        "genres": [
+            "vaporwave"
+        ],
+        "audio_features": {
+            "danceability": 0.566,
+            "energy": 0.74,
+            "key": 8,
+            "loudness": -8.614,
+            "mode": 1,
+            "speechiness": 0.063,
+            "acousticness": 0.0352,
+            "instrumentalness": 0.849,
+            "liveness": 0.221,
+            "valence": 0.419,
+            "tempo": 170.098
+        }
+    },
+    {
+        "track_id": "3ApAsbQP7d5GlFwwdExaTY",
+        "track_name": "Poplar St",
+        "artist_name": "Glass Animals",
+        "genres": [
+            "gauze pop",
+            "indietronica",
+            "modern rock",
+            "pov: indie",
+            "shiver pop"
+        ],
+        "audio_features": {
+            "danceability": 0.575,
+            "energy": 0.446,
+            "key": 4,
+            "loudness": -7.802,
+            "mode": 0,
+            "speechiness": 0.0296,
+            "acousticness": 0.247,
+            "instrumentalness": 0.00567,
+            "liveness": 0.137,
+            "valence": 0.259,
+            "tempo": 68.985
+        }
+    },
+    {
+        "track_id": "6GsP3uMCd0Dn5T37C93waZ",
+        "track_name": "Sick Love",
+        "artist_name": "Red Hot Chili Peppers",
+        "genres": [
+            "alternative rock",
+            "funk metal",
+            "funk rock",
+            "permanent wave",
+            "rock"
+        ],
+        "audio_features": {
+            "danceability": 0.591,
+            "energy": 0.794,
+            "key": 4,
+            "loudness": -5.935,
+            "mode": 0,
+            "speechiness": 0.069,
+            "acousticness": 0.183,
+            "instrumentalness": 0,
+            "liveness": 0.292,
+            "valence": 0.875,
+            "tempo": 147.974
+        }
+    },
+    {
+        "track_id": "6ZT3coOj97F6CVvruPtnox",
+        "track_name": "Your Soul",
+        "artist_name": "Hippie Sabotage",
+        "genres": [
+            "edm",
+            "electronic trap"
+        ],
+        "audio_features": {
+            "danceability": 0.487,
+            "energy": 0.68,
+            "key": 7,
+            "loudness": -8.497,
+            "mode": 0,
+            "speechiness": 0.0408,
+            "acousticness": 0.000599,
+            "instrumentalness": 0.0339,
+            "liveness": 0.144,
+            "valence": 0.0752,
+            "tempo": 94.46
+        }
+    },
+    {
+        "track_id": "3C2eOPGayncp5BIOVtdpD7",
+        "track_name": "Late Night",
+        "artist_name": "ODESZA",
+        "genres": [
+            "chillwave",
+            "edm",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.614,
+            "energy": 0.628,
+            "key": 2,
+            "loudness": -6.751,
+            "mode": 1,
+            "speechiness": 0.0748,
+            "acousticness": 0.0364,
+            "instrumentalness": 0.00977,
+            "liveness": 0.193,
+            "valence": 0.429,
+            "tempo": 125.061
+        }
+    },
+    {
+        "track_id": "6jgkEbmQ2F2onEqsEhiliL",
+        "track_name": "My Kind of Woman",
+        "artist_name": "Mac DeMarco",
+        "genres": [
+            "edmonton indie",
+            "lo-fi indie",
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.501,
+            "energy": 0.765,
+            "key": 6,
+            "loudness": -7.063,
+            "mode": 0,
+            "speechiness": 0.0281,
+            "acousticness": 0.00294,
+            "instrumentalness": 0.49,
+            "liveness": 0.184,
+            "valence": 0.46,
+            "tempo": 91.771
+        }
+    },
+    {
+        "track_id": "0xG4gdBtTlO6qHKPasdvZy",
+        "track_name": "ART SCHOOL CRUSH",
+        "artist_name": "NNAMD\u00cf",
+        "genres": [
+            "art pop",
+            "experimental hip hop"
+        ],
+        "audio_features": {
+            "danceability": 0.339,
+            "energy": 0.481,
+            "key": 9,
+            "loudness": -12.972,
+            "mode": 1,
+            "speechiness": 0.0444,
+            "acousticness": 0.262,
+            "instrumentalness": 0.00952,
+            "liveness": 0.302,
+            "valence": 0.814,
+            "tempo": 124.89
+        }
+    },
+    {
+        "track_id": "35tF5rLP8NMUfDL1h0ytYS",
+        "track_name": "Weak Hearts",
+        "artist_name": "Felly",
+        "genres": [
+            "indie pop rap"
+        ],
+        "audio_features": {
+            "danceability": 0.529,
+            "energy": 0.544,
+            "key": 9,
+            "loudness": -9.558,
+            "mode": 1,
+            "speechiness": 0.0463,
+            "acousticness": 0.185,
+            "instrumentalness": 0.0315,
+            "liveness": 0.138,
+            "valence": 0.206,
+            "tempo": 125.989
+        }
+    },
+    {
+        "track_id": "7BkLfZnv7DJdJJ9wWj8Vdv",
+        "track_name": "adios",
+        "artist_name": "JAWNY",
+        "genres": [
+            "bedroom pop",
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.523,
+            "energy": 0.846,
+            "key": 6,
+            "loudness": -4.749,
+            "mode": 0,
+            "speechiness": 0.0563,
+            "acousticness": 0.201,
+            "instrumentalness": 0.00281,
+            "liveness": 0.574,
+            "valence": 0.442,
+            "tempo": 164.027
+        }
+    },
+    {
+        "track_id": "2Fw5S2gaOSZzdN5dFoC2dj",
+        "track_name": "A.D.H.D",
+        "artist_name": "Kendrick Lamar",
+        "genres": [
+            "conscious hip hop",
+            "hip hop",
+            "rap",
+            "west coast rap"
+        ],
+        "audio_features": {
+            "danceability": 0.609,
+            "energy": 0.799,
+            "key": 9,
+            "loudness": -6.883,
+            "mode": 1,
+            "speechiness": 0.24,
+            "acousticness": 0.33,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "valence": 0.582,
+            "tempo": 157.74
+        }
+    },
+    {
+        "track_id": "2zR85boqjMOKPygjdDbGbC",
+        "track_name": "Unknown Song",
+        "artist_name": "Milky Chance",
+        "genres": [
+            "german pop",
+            "modern rock"
+        ],
+        "audio_features": {
+            "danceability": 0.74,
+            "energy": 0.503,
+            "key": 1,
+            "loudness": -11.347,
+            "mode": 1,
+            "speechiness": 0.0522,
+            "acousticness": 0.0898,
+            "instrumentalness": 0.0665,
+            "liveness": 0.118,
+            "valence": 0.548,
+            "tempo": 118.026
+        }
+    },
+    {
+        "track_id": "7Clj1VaR0Vww6bUuM3nBk1",
+        "track_name": "World on Fire (with Slightly Stoopid)",
+        "artist_name": "Stick Figure",
+        "genres": [
+            "reggae fusion",
+            "reggae rock"
+        ],
+        "audio_features": {
+            "danceability": 0.866,
+            "energy": 0.518,
+            "key": 0,
+            "loudness": -7.372,
+            "mode": 1,
+            "speechiness": 0.0457,
+            "acousticness": 0.303,
+            "instrumentalness": 0.0512,
+            "liveness": 0.104,
+            "valence": 0.644,
+            "tempo": 141.01
+        }
+    },
+    {
+        "track_id": "6dBUzqjtbnIa1TwYbyw5CM",
+        "track_name": "Lovers Rock",
+        "artist_name": "TV Girl",
+        "genres": [
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.559,
+            "energy": 0.871,
+            "key": 5,
+            "loudness": -5.338,
+            "mode": 0,
+            "speechiness": 0.0397,
+            "acousticness": 7.53e-06,
+            "instrumentalness": 0.00545,
+            "liveness": 0.096,
+            "valence": 0.572,
+            "tempo": 104.97
+        }
+    },
+    {
+        "track_id": "5IM5amYdIdW6fx0sU8a0fm",
+        "track_name": "morning mood",
+        "artist_name": "mar-feliz",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.733,
+            "energy": 0.681,
+            "key": 0,
+            "loudness": -6.275,
+            "mode": 0,
+            "speechiness": 0.0488,
+            "acousticness": 0.19,
+            "instrumentalness": 0.704,
+            "liveness": 0.108,
+            "valence": 0.506,
+            "tempo": 146.033
+        }
+    },
+    {
+        "track_id": "4ANZKZkg74qHyVgd0gwO32",
+        "track_name": "Sorry Bro",
+        "artist_name": "SALES",
+        "genres": [
+            "orlando indie"
+        ],
+        "audio_features": {
+            "danceability": 0.677,
+            "energy": 0.479,
+            "key": 9,
+            "loudness": -11.532,
+            "mode": 0,
+            "speechiness": 0.0344,
+            "acousticness": 0.804,
+            "instrumentalness": 0.767,
+            "liveness": 0.105,
+            "valence": 0.4,
+            "tempo": 98.026
+        }
+    }
+]

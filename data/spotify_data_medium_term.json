@@ -1,0 +1,1165 @@
+[
+    {
+        "track_id": "10eJrY01y41xnCsDMCcsQG",
+        "track_name": "Daylight",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.66,
+            "energy": 0.459,
+            "key": 0,
+            "loudness": -8.973,
+            "mode": 1,
+            "speechiness": 0.0294,
+            "acousticness": 0.308,
+            "instrumentalness": 0.000903,
+            "liveness": 0.0996,
+            "valence": 0.188,
+            "tempo": 119.959
+        }
+    },
+    {
+        "track_id": "1VJgMkxFY3JSgiUWZNeycd",
+        "track_name": "Until the Sun Needs to Rise",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.726,
+            "energy": 0.691,
+            "key": 8,
+            "loudness": -8.033,
+            "mode": 1,
+            "speechiness": 0.0337,
+            "acousticness": 0.011,
+            "instrumentalness": 0.294,
+            "liveness": 0.0916,
+            "valence": 0.118,
+            "tempo": 119.996
+        }
+    },
+    {
+        "track_id": "33R3swWziWYmnDYvZqcZVS",
+        "track_name": "Crystalised",
+        "artist_name": "The xx",
+        "genres": [
+            "downtempo",
+            "dream pop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.762,
+            "energy": 0.484,
+            "key": 11,
+            "loudness": -12.368,
+            "mode": 0,
+            "speechiness": 0.0311,
+            "acousticness": 0.812,
+            "instrumentalness": 0.389,
+            "liveness": 0.0841,
+            "valence": 0.415,
+            "tempo": 122.916
+        }
+    },
+    {
+        "track_id": "3mOoYmxYgtfuMxbcwFNq2Y",
+        "track_name": "Broadway Hotel - 2020 Remaster",
+        "artist_name": "Al Stewart",
+        "genres": [
+            "art rock",
+            "folk rock",
+            "mellow gold",
+            "progressive rock",
+            "singer-songwriter",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "audio_features": {
+            "danceability": 0.358,
+            "energy": 0.539,
+            "key": 6,
+            "loudness": -8.334,
+            "mode": 0,
+            "speechiness": 0.0695,
+            "acousticness": 0.357,
+            "instrumentalness": 0,
+            "liveness": 0.31,
+            "valence": 0.567,
+            "tempo": 164.847
+        }
+    },
+    {
+        "track_id": "65GbQI9VDTs7vo6MJL2iJA",
+        "track_name": "Coming Home",
+        "artist_name": "Leon Bridges",
+        "genres": [
+            "modern blues",
+            "neo soul",
+            "soul"
+        ],
+        "audio_features": {
+            "danceability": 0.424,
+            "energy": 0.465,
+            "key": 6,
+            "loudness": -6.595,
+            "mode": 1,
+            "speechiness": 0.0297,
+            "acousticness": 0.461,
+            "instrumentalness": 5.52e-05,
+            "liveness": 0.154,
+            "valence": 0.462,
+            "tempo": 112.418
+        }
+    },
+    {
+        "track_id": "1IqF5PUDUnaykHLs0RWbDO",
+        "track_name": "Time Moves Slow",
+        "artist_name": "BADBADNOTGOOD",
+        "genres": [
+            "canadian modern jazz",
+            "indie soul"
+        ],
+        "audio_features": {
+            "danceability": 0.591,
+            "energy": 0.376,
+            "key": 11,
+            "loudness": -10.832,
+            "mode": 0,
+            "speechiness": 0.0543,
+            "acousticness": 0.478,
+            "instrumentalness": 0.0282,
+            "liveness": 0.101,
+            "valence": 0.308,
+            "tempo": 140.026
+        }
+    },
+    {
+        "track_id": "4aHNpAIE8kD1NLIsyhQ6Kl",
+        "track_name": "Dweller On the Threshold",
+        "artist_name": "Van Morrison",
+        "genres": [
+            "classic rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "audio_features": {
+            "danceability": 0.604,
+            "energy": 0.838,
+            "key": 7,
+            "loudness": -8.23,
+            "mode": 1,
+            "speechiness": 0.03,
+            "acousticness": 0.237,
+            "instrumentalness": 0.00163,
+            "liveness": 0.136,
+            "valence": 0.959,
+            "tempo": 102.372
+        }
+    },
+    {
+        "track_id": "4fF2nOsPektn8js9fG5Cdr",
+        "track_name": "Breeze",
+        "artist_name": "Jermango Dreaming",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.708,
+            "energy": 0.802,
+            "key": 9,
+            "loudness": -4.49,
+            "mode": 0,
+            "speechiness": 0.03,
+            "acousticness": 0.00376,
+            "instrumentalness": 0.219,
+            "liveness": 0.11,
+            "valence": 0.741,
+            "tempo": 117.021
+        }
+    },
+    {
+        "track_id": "6DIMM15oo3kxnCuVypaYGy",
+        "track_name": "Give Up Baby Go",
+        "artist_name": "Peach Pit",
+        "genres": [
+            "pov: indie",
+            "vancouver indie"
+        ],
+        "audio_features": {
+            "danceability": 0.683,
+            "energy": 0.697,
+            "key": 9,
+            "loudness": -6.703,
+            "mode": 1,
+            "speechiness": 0.025,
+            "acousticness": 0.169,
+            "instrumentalness": 2.46e-06,
+            "liveness": 0.0527,
+            "valence": 0.591,
+            "tempo": 96.729
+        }
+    },
+    {
+        "track_id": "2BXKIOSiQb4FqPmhb05mWw",
+        "track_name": "From 2 to 3",
+        "artist_name": "Peach Pit",
+        "genres": [
+            "pov: indie",
+            "vancouver indie"
+        ],
+        "audio_features": {
+            "danceability": 0.643,
+            "energy": 0.536,
+            "key": 9,
+            "loudness": -6.646,
+            "mode": 1,
+            "speechiness": 0.0253,
+            "acousticness": 0.458,
+            "instrumentalness": 0.00144,
+            "liveness": 0.11,
+            "valence": 0.17,
+            "tempo": 80.031
+        }
+    },
+    {
+        "track_id": "5HGxLtYxTriF7mMiriSpaz",
+        "track_name": "You Were Right",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.708,
+            "energy": 0.793,
+            "key": 5,
+            "loudness": -5.426,
+            "mode": 0,
+            "speechiness": 0.0342,
+            "acousticness": 0.0136,
+            "instrumentalness": 0.00221,
+            "liveness": 0.118,
+            "valence": 0.734,
+            "tempo": 122.006
+        }
+    },
+    {
+        "track_id": "1uZIL52W5zXEF55fCh5lqP",
+        "track_name": "Rearrange Us",
+        "artist_name": "Mt. Joy",
+        "genres": [
+            "stomp and holler"
+        ],
+        "audio_features": {
+            "danceability": 0.792,
+            "energy": 0.489,
+            "key": 9,
+            "loudness": -7.296,
+            "mode": 1,
+            "speechiness": 0.0263,
+            "acousticness": 0.657,
+            "instrumentalness": 0.0205,
+            "liveness": 0.111,
+            "valence": 0.477,
+            "tempo": 98.973
+        }
+    },
+    {
+        "track_id": "5pgZpHqfv4TSomtkfGZGrG",
+        "track_name": "Revolution 909",
+        "artist_name": "Daft Punk",
+        "genres": [
+            "electro",
+            "filter house",
+            "rock"
+        ],
+        "audio_features": {
+            "danceability": 0.745,
+            "energy": 0.716,
+            "key": 11,
+            "loudness": -7.918,
+            "mode": 1,
+            "speechiness": 0.136,
+            "acousticness": 0.0265,
+            "instrumentalness": 0.846,
+            "liveness": 0.246,
+            "valence": 0.828,
+            "tempo": 126.527
+        }
+    },
+    {
+        "track_id": "1672RT45nXNUb28fzzPxn8",
+        "track_name": "Orange Blood",
+        "artist_name": "Mt. Joy",
+        "genres": [
+            "stomp and holler"
+        ],
+        "audio_features": {
+            "danceability": 0.712,
+            "energy": 0.53,
+            "key": 5,
+            "loudness": -9.842,
+            "mode": 0,
+            "speechiness": 0.0444,
+            "acousticness": 0.66,
+            "instrumentalness": 0.512,
+            "liveness": 0.129,
+            "valence": 0.496,
+            "tempo": 118.994
+        }
+    },
+    {
+        "track_id": "1RI9Qpt8QbYtwfCW8npcO1",
+        "track_name": "I Didn't Know",
+        "artist_name": "Skinshape",
+        "genres": [
+            "psychedelic soul"
+        ],
+        "audio_features": {
+            "danceability": 0.646,
+            "energy": 0.399,
+            "key": 5,
+            "loudness": -14.222,
+            "mode": 1,
+            "speechiness": 0.0295,
+            "acousticness": 0.432,
+            "instrumentalness": 0.284,
+            "liveness": 0.124,
+            "valence": 0.581,
+            "tempo": 104.985
+        }
+    },
+    {
+        "track_id": "536L9C0N7vhYdibCJx3cI2",
+        "track_name": "The Wreck of the Edmund Fitzgerald",
+        "artist_name": "Gordon Lightfoot",
+        "genres": [
+            "canadian country",
+            "canadian singer-songwriter",
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "audio_features": {
+            "danceability": 0.308,
+            "energy": 0.376,
+            "key": 4,
+            "loudness": -15.24,
+            "mode": 1,
+            "speechiness": 0.0626,
+            "acousticness": 0.116,
+            "instrumentalness": 2.52e-06,
+            "liveness": 0.166,
+            "valence": 0.158,
+            "tempo": 186.047
+        }
+    },
+    {
+        "track_id": "7MTX3vevnm41xuEoPxWT3j",
+        "track_name": "Year of the Cat",
+        "artist_name": "Al Stewart",
+        "genres": [
+            "art rock",
+            "folk rock",
+            "mellow gold",
+            "progressive rock",
+            "singer-songwriter",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "audio_features": {
+            "danceability": 0.54,
+            "energy": 0.634,
+            "key": 4,
+            "loudness": -9.165,
+            "mode": 0,
+            "speechiness": 0.0346,
+            "acousticness": 0.016,
+            "instrumentalness": 0.0098,
+            "liveness": 0.118,
+            "valence": 0.546,
+            "tempo": 116.461
+        }
+    },
+    {
+        "track_id": "5oynsOy80DnodTslgaj3cr",
+        "track_name": "Marcy Me",
+        "artist_name": "JAY-Z",
+        "genres": [
+            "east coast hip hop",
+            "gangster rap",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.518,
+            "energy": 0.678,
+            "key": 10,
+            "loudness": -6.76,
+            "mode": 1,
+            "speechiness": 0.331,
+            "acousticness": 0.542,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "valence": 0.604,
+            "tempo": 81.951
+        }
+    },
+    {
+        "track_id": "65u7IbuZ4viAlVBHxnpos1",
+        "track_name": "Latitude -remix (feat. Five Deez)",
+        "artist_name": "Nujabes",
+        "genres": [
+            "ambeat",
+            "chillhop",
+            "downtempo",
+            "instrumental hip hop",
+            "japanese chillhop",
+            "japanese old school hip hop",
+            "jazz rap"
+        ],
+        "audio_features": {
+            "danceability": 0.823,
+            "energy": 0.814,
+            "key": 7,
+            "loudness": -5.611,
+            "mode": 0,
+            "speechiness": 0.177,
+            "acousticness": 0.644,
+            "instrumentalness": 0.687,
+            "liveness": 0.117,
+            "valence": 0.649,
+            "tempo": 102.619
+        }
+    },
+    {
+        "track_id": "4Zucyo10zPhTN0oIIn1i6U",
+        "track_name": "Love Theme From Chinatown (Main Title) - From The \"Chinatown\" Soundtrack",
+        "artist_name": "Jerry Goldsmith",
+        "genres": [
+            "classic soundtrack",
+            "orchestral soundtrack",
+            "soundtrack"
+        ],
+        "audio_features": {
+            "danceability": 0.214,
+            "energy": 0.272,
+            "key": 7,
+            "loudness": -11.59,
+            "mode": 0,
+            "speechiness": 0.0335,
+            "acousticness": 0.917,
+            "instrumentalness": 0.789,
+            "liveness": 0.2,
+            "valence": 0.0537,
+            "tempo": 40.244
+        }
+    },
+    {
+        "track_id": "1BnQsuVAqdQSorYqCNwTvs",
+        "track_name": "Pleasantries (With Your Lover)",
+        "artist_name": "Mustard Service",
+        "genres": [
+            "indie garage rock",
+            "miami indie"
+        ],
+        "audio_features": {
+            "danceability": 0.608,
+            "energy": 0.776,
+            "key": 4,
+            "loudness": -4.75,
+            "mode": 1,
+            "speechiness": 0.0535,
+            "acousticness": 0.0181,
+            "instrumentalness": 0.00435,
+            "liveness": 0.16,
+            "valence": 0.198,
+            "tempo": 133.978
+        }
+    },
+    {
+        "track_id": "4xXglb2SBiHnqPMQiItlrG",
+        "track_name": "Let Loose",
+        "artist_name": "Mt. Joy",
+        "genres": [
+            "stomp and holler"
+        ],
+        "audio_features": {
+            "danceability": 0.514,
+            "energy": 0.642,
+            "key": 0,
+            "loudness": -6.938,
+            "mode": 1,
+            "speechiness": 0.0326,
+            "acousticness": 0.496,
+            "instrumentalness": 0.00506,
+            "liveness": 0.134,
+            "valence": 0.618,
+            "tempo": 147.031
+        }
+    },
+    {
+        "track_id": "7vptmeNwSEVkcwDdqk7UQO",
+        "track_name": "Lauren",
+        "artist_name": "Men I Trust",
+        "genres": [
+            "indie pop",
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.762,
+            "energy": 0.503,
+            "key": 9,
+            "loudness": -9.397,
+            "mode": 0,
+            "speechiness": 0.0308,
+            "acousticness": 0.777,
+            "instrumentalness": 0.17,
+            "liveness": 0.115,
+            "valence": 0.558,
+            "tempo": 96.999
+        }
+    },
+    {
+        "track_id": "4IU1RL4BKvFyXtbTwaHAvW",
+        "track_name": "Ventura Highway",
+        "artist_name": "America",
+        "genres": [
+            "album rock",
+            "classic rock",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "soft rock"
+        ],
+        "audio_features": {
+            "danceability": 0.673,
+            "energy": 0.581,
+            "key": 2,
+            "loudness": -10.205,
+            "mode": 1,
+            "speechiness": 0.029,
+            "acousticness": 0.223,
+            "instrumentalness": 0.000206,
+            "liveness": 0.063,
+            "valence": 0.818,
+            "tempo": 130.771
+        }
+    },
+    {
+        "track_id": "1DdIcvg2SZ3C8INMoEoHzR",
+        "track_name": "Every 1's a Winner",
+        "artist_name": "Hot Chocolate",
+        "genres": [
+            "disco"
+        ],
+        "audio_features": {
+            "danceability": 0.721,
+            "energy": 0.539,
+            "key": 10,
+            "loudness": -7.36,
+            "mode": 1,
+            "speechiness": 0.0293,
+            "acousticness": 0.0584,
+            "instrumentalness": 0.528,
+            "liveness": 0.136,
+            "valence": 0.929,
+            "tempo": 107.845
+        }
+    },
+    {
+        "track_id": "4ZxtydSHCl0eZ9a9CWtOIF",
+        "track_name": "SEXY DANCE",
+        "artist_name": "Masayoshi Takanaka",
+        "genres": [
+            "classic japanese jazz"
+        ],
+        "audio_features": {
+            "danceability": 0.632,
+            "energy": 0.709,
+            "key": 2,
+            "loudness": -12.069,
+            "mode": 1,
+            "speechiness": 0.0404,
+            "acousticness": 0.176,
+            "instrumentalness": 0.728,
+            "liveness": 0.19,
+            "valence": 0.805,
+            "tempo": 115.443
+        }
+    },
+    {
+        "track_id": "7j59MN6vDM9lrvQ0iGhqaa",
+        "track_name": "Say Can You Hear (Album V)",
+        "artist_name": "Men I Trust",
+        "genres": [
+            "indie pop",
+            "pov: indie"
+        ],
+        "audio_features": {
+            "danceability": 0.663,
+            "energy": 0.406,
+            "key": 9,
+            "loudness": -14.691,
+            "mode": 1,
+            "speechiness": 0.059,
+            "acousticness": 0.774,
+            "instrumentalness": 0.789,
+            "liveness": 0.106,
+            "valence": 0.644,
+            "tempo": 158.009
+        }
+    },
+    {
+        "track_id": "7u0fz3V6cYeYTX91DMmIvQ",
+        "track_name": "Food for the Soul",
+        "artist_name": "it's murph",
+        "genres": [
+            "stutter house"
+        ],
+        "audio_features": {
+            "danceability": 0.655,
+            "energy": 0.714,
+            "key": 7,
+            "loudness": -7.78,
+            "mode": 0,
+            "speechiness": 0.0572,
+            "acousticness": 0.0512,
+            "instrumentalness": 0.48,
+            "liveness": 0.32,
+            "valence": 0.131,
+            "tempo": 123.002
+        }
+    },
+    {
+        "track_id": "3Sm5TYFgMXyXwgAcY2xweX",
+        "track_name": "So Into You",
+        "artist_name": "Atlanta Rhythm Section",
+        "genres": [
+            "album rock",
+            "classic rock",
+            "country rock",
+            "mellow gold",
+            "soft rock",
+            "southern rock",
+            "yacht rock"
+        ],
+        "audio_features": {
+            "danceability": 0.622,
+            "energy": 0.409,
+            "key": 5,
+            "loudness": -13.484,
+            "mode": 0,
+            "speechiness": 0.0362,
+            "acousticness": 0.65,
+            "instrumentalness": 0.023,
+            "liveness": 0.142,
+            "valence": 0.785,
+            "tempo": 86.173
+        }
+    },
+    {
+        "track_id": "7dFGkZbmm6cVlI28bfMaWE",
+        "track_name": "Righteous Minds",
+        "artist_name": "Joey Bada$$",
+        "genres": [
+            "conscious hip hop",
+            "hip hop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.809,
+            "energy": 0.638,
+            "key": 8,
+            "loudness": -5.646,
+            "mode": 0,
+            "speechiness": 0.28,
+            "acousticness": 0.262,
+            "instrumentalness": 0,
+            "liveness": 0.453,
+            "valence": 0.608,
+            "tempo": 94.893
+        }
+    },
+    {
+        "track_id": "1Qa0Y05al633fG8f9Peytc",
+        "track_name": "Maybe I\u2019m Amazed - 2011 Remaster",
+        "artist_name": "Paul McCartney",
+        "genres": [
+            "classic rock",
+            "mellow gold",
+            "rock",
+            "soft rock"
+        ],
+        "audio_features": {
+            "danceability": 0.471,
+            "energy": 0.494,
+            "key": 7,
+            "loudness": -10.407,
+            "mode": 1,
+            "speechiness": 0.0312,
+            "acousticness": 0.387,
+            "instrumentalness": 0.0944,
+            "liveness": 0.617,
+            "valence": 0.373,
+            "tempo": 79.255
+        }
+    },
+    {
+        "track_id": "567UAkWoLBqZ709s3Qcbze",
+        "track_name": "Maria Maria (feat. The Product G&B)",
+        "artist_name": "Santana",
+        "genres": [
+            "blues rock",
+            "classic rock",
+            "mexican classic rock"
+        ],
+        "audio_features": {
+            "danceability": 0.777,
+            "energy": 0.601,
+            "key": 2,
+            "loudness": -5.931,
+            "mode": 1,
+            "speechiness": 0.126,
+            "acousticness": 0.0406,
+            "instrumentalness": 0.00201,
+            "liveness": 0.0348,
+            "valence": 0.68,
+            "tempo": 97.911
+        }
+    },
+    {
+        "track_id": "1mKxlggsbt21Ku6oD5wuX0",
+        "track_name": "Leaving",
+        "artist_name": "ILLENIUM",
+        "genres": [
+            "edm",
+            "melodic dubstep",
+            "pop dance"
+        ],
+        "audio_features": {
+            "danceability": 0.302,
+            "energy": 0.64,
+            "key": 11,
+            "loudness": -3.452,
+            "mode": 1,
+            "speechiness": 0.0379,
+            "acousticness": 0.0359,
+            "instrumentalness": 1.66e-05,
+            "liveness": 0.951,
+            "valence": 0.184,
+            "tempo": 139.793
+        }
+    },
+    {
+        "track_id": "24eRthJ3VWBI7B9cuFBdMG",
+        "track_name": "Spanish Moon",
+        "artist_name": "Little Feat",
+        "genres": [
+            "blues rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "jam band",
+            "mellow gold",
+            "roots rock",
+            "southern rock",
+            "swamp rock"
+        ],
+        "audio_features": {
+            "danceability": 0.575,
+            "energy": 0.415,
+            "key": 11,
+            "loudness": -15.678,
+            "mode": 1,
+            "speechiness": 0.0828,
+            "acousticness": 0.421,
+            "instrumentalness": 0.614,
+            "liveness": 0.0566,
+            "valence": 0.738,
+            "tempo": 89.846
+        }
+    },
+    {
+        "track_id": "2Th9BGKvfZG8bKQSACitwG",
+        "track_name": "It's Strange (feat. K.Flay)",
+        "artist_name": "Louis The Child",
+        "genres": [
+            "edm",
+            "electropop",
+            "indie poptimism"
+        ],
+        "audio_features": {
+            "danceability": 0.837,
+            "energy": 0.492,
+            "key": 0,
+            "loudness": -7.792,
+            "mode": 1,
+            "speechiness": 0.354,
+            "acousticness": 0.371,
+            "instrumentalness": 0.0401,
+            "liveness": 0.102,
+            "valence": 0.417,
+            "tempo": 85.951
+        }
+    },
+    {
+        "track_id": "1UMF4tcuC8J1XpJ1qp9Ws3",
+        "track_name": "Gungala nido",
+        "artist_name": "Luigi Malatesta",
+        "genres": [
+            "italian library music"
+        ],
+        "audio_features": {
+            "danceability": 0.54,
+            "energy": 0.518,
+            "key": 8,
+            "loudness": -9.475,
+            "mode": 1,
+            "speechiness": 0.0313,
+            "acousticness": 0.763,
+            "instrumentalness": 0.00577,
+            "liveness": 0.0973,
+            "valence": 0.735,
+            "tempo": 90.256
+        }
+    },
+    {
+        "track_id": "2ej1A2Ze6P2EOW7KfIosZR",
+        "track_name": "Feather (feat. Cise Starr & Akin from CYNE)",
+        "artist_name": "Nujabes",
+        "genres": [
+            "ambeat",
+            "chillhop",
+            "downtempo",
+            "instrumental hip hop",
+            "japanese chillhop",
+            "japanese old school hip hop",
+            "jazz rap"
+        ],
+        "audio_features": {
+            "danceability": 0.565,
+            "energy": 0.749,
+            "key": 10,
+            "loudness": -6.629,
+            "mode": 0,
+            "speechiness": 0.0769,
+            "acousticness": 0.655,
+            "instrumentalness": 0.432,
+            "liveness": 0.106,
+            "valence": 0.881,
+            "tempo": 180.598
+        }
+    },
+    {
+        "track_id": "20TYc2OwFNxPVFRT2LYmZH",
+        "track_name": "In the Shadows",
+        "artist_name": "Foreign Air",
+        "genres": [
+            "charlotte nc indie",
+            "indie poptimism",
+            "modern alternative rock"
+        ],
+        "audio_features": {
+            "danceability": 0.601,
+            "energy": 0.758,
+            "key": 0,
+            "loudness": -8.004,
+            "mode": 1,
+            "speechiness": 0.035,
+            "acousticness": 0.151,
+            "instrumentalness": 0.862,
+            "liveness": 0.11,
+            "valence": 0.153,
+            "tempo": 116.067
+        }
+    },
+    {
+        "track_id": "7i3xpu7SFWvzhGa9AZyySR",
+        "track_name": "Reminiscing - Remastered 2010",
+        "artist_name": "Little River Band",
+        "genres": [
+            "album rock",
+            "classic rock",
+            "country rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "yacht rock"
+        ],
+        "audio_features": {
+            "danceability": 0.35,
+            "energy": 0.443,
+            "key": 7,
+            "loudness": -11.01,
+            "mode": 1,
+            "speechiness": 0.0369,
+            "acousticness": 0.762,
+            "instrumentalness": 0.00192,
+            "liveness": 0.0994,
+            "valence": 0.345,
+            "tempo": 189.125
+        }
+    },
+    {
+        "track_id": "2aI21FnmY7TJVKeMaoQZ0t",
+        "track_name": "Say It Right",
+        "artist_name": "Nelly Furtado",
+        "genres": [
+            "canadian latin",
+            "canadian pop",
+            "dance pop",
+            "pop"
+        ],
+        "audio_features": {
+            "danceability": 0.872,
+            "energy": 0.872,
+            "key": 1,
+            "loudness": -6.328,
+            "mode": 1,
+            "speechiness": 0.139,
+            "acousticness": 0.0476,
+            "instrumentalness": 0.00112,
+            "liveness": 0.0543,
+            "valence": 0.809,
+            "tempo": 116.948
+        }
+    },
+    {
+        "track_id": "5QhikAUv91oMAaFnfKz22u",
+        "track_name": "Lowdown (2023 Remaster)",
+        "artist_name": "Boz Scaggs",
+        "genres": [
+            "classic rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "yacht rock"
+        ],
+        "audio_features": {
+            "danceability": 0.691,
+            "energy": 0.551,
+            "key": 11,
+            "loudness": -12.15,
+            "mode": 0,
+            "speechiness": 0.0503,
+            "acousticness": 0.0747,
+            "instrumentalness": 0.104,
+            "liveness": 0.034,
+            "valence": 0.938,
+            "tempo": 116.519
+        }
+    },
+    {
+        "track_id": "5QyJG0vkPMsjaE09uOW67b",
+        "track_name": "Skylah",
+        "artist_name": "Daily J",
+        "genres": [
+            "auckland indie",
+            "australian surf rock"
+        ],
+        "audio_features": {
+            "danceability": 0.61,
+            "energy": 0.747,
+            "key": 11,
+            "loudness": -6.248,
+            "mode": 0,
+            "speechiness": 0.0274,
+            "acousticness": 0.0105,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "valence": 0.691,
+            "tempo": 123.991
+        }
+    },
+    {
+        "track_id": "0IedgQjjJ8Ad4B3UDQ5Lyn",
+        "track_name": "Fragments of Time (feat. Todd Edwards)",
+        "artist_name": "Daft Punk",
+        "genres": [
+            "electro",
+            "filter house",
+            "rock"
+        ],
+        "audio_features": {
+            "danceability": 0.807,
+            "energy": 0.51,
+            "key": 0,
+            "loudness": -9.729,
+            "mode": 1,
+            "speechiness": 0.0433,
+            "acousticness": 0.041,
+            "instrumentalness": 0.115,
+            "liveness": 0.104,
+            "valence": 0.961,
+            "tempo": 130.118
+        }
+    },
+    {
+        "track_id": "5afxMT80ZvKcrCeJCV2PXL",
+        "track_name": "Camelblues",
+        "artist_name": "Mndsgn",
+        "genres": [
+            "abstract beats",
+            "indie soul",
+            "instrumental hip hop",
+            "synth funk",
+            "wonky"
+        ],
+        "audio_features": {
+            "danceability": 0.594,
+            "energy": 0.304,
+            "key": 9,
+            "loudness": -15.353,
+            "mode": 0,
+            "speechiness": 0.029,
+            "acousticness": 0.947,
+            "instrumentalness": 0.219,
+            "liveness": 0.0933,
+            "valence": 0.13,
+            "tempo": 79.994
+        }
+    },
+    {
+        "track_id": "4r8aHCSHA98P1BYqvJN8kI",
+        "track_name": "Manhattan Skyline",
+        "artist_name": "David Shire",
+        "genres": [
+            "classic soundtrack"
+        ],
+        "audio_features": {
+            "danceability": 0.546,
+            "energy": 0.567,
+            "key": 7,
+            "loudness": -10.944,
+            "mode": 0,
+            "speechiness": 0.0396,
+            "acousticness": 0.154,
+            "instrumentalness": 0.853,
+            "liveness": 0.411,
+            "valence": 0.764,
+            "tempo": 123.921
+        }
+    },
+    {
+        "track_id": "5EI94cNPh81RIh1NZy5qqR",
+        "track_name": "Dinsdag",
+        "artist_name": "Vieze Asbak",
+        "genres": [
+            "meme"
+        ],
+        "audio_features": {
+            "danceability": 0.943,
+            "energy": 0.642,
+            "key": 5,
+            "loudness": -7.029,
+            "mode": 0,
+            "speechiness": 0.112,
+            "acousticness": 0.317,
+            "instrumentalness": 0.467,
+            "liveness": 0.108,
+            "valence": 0.263,
+            "tempo": 126.985
+        }
+    },
+    {
+        "track_id": "40SBS57su9xLiE1WqkXOVr",
+        "track_name": "Afraid To Feel",
+        "artist_name": "LF SYSTEM",
+        "genres": [
+            "uk dance"
+        ],
+        "audio_features": {
+            "danceability": 0.578,
+            "energy": 0.912,
+            "key": 1,
+            "loudness": -3.929,
+            "mode": 1,
+            "speechiness": 0.114,
+            "acousticness": 0.0166,
+            "instrumentalness": 0.00362,
+            "liveness": 0.273,
+            "valence": 0.68,
+            "tempo": 127.87
+        }
+    },
+    {
+        "track_id": "5wwbisug2fesWvFQFIJnIt",
+        "track_name": "Devil's Dance",
+        "artist_name": "Cortex",
+        "genres": [
+            "spytrack"
+        ],
+        "audio_features": {
+            "danceability": 0.648,
+            "energy": 0.853,
+            "key": 0,
+            "loudness": -8.44,
+            "mode": 1,
+            "speechiness": 0.0412,
+            "acousticness": 0.0681,
+            "instrumentalness": 0.433,
+            "liveness": 0.281,
+            "valence": 0.807,
+            "tempo": 145.917
+        }
+    },
+    {
+        "track_id": "5NOfpkWNHGww2mwq2kIEzd",
+        "track_name": "New Beginning, Pt. 1",
+        "artist_name": "Andrew Hale",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.167,
+            "energy": 0.204,
+            "key": 9,
+            "loudness": -18.294,
+            "mode": 0,
+            "speechiness": 0.0364,
+            "acousticness": 0.835,
+            "instrumentalness": 0.825,
+            "liveness": 0.128,
+            "valence": 0.107,
+            "tempo": 96.144
+        }
+    },
+    {
+        "track_id": "4RYwE31p4KflK1h7J7m1Yt",
+        "track_name": "Spooky (Single Version)",
+        "artist_name": "Dusty Springfield",
+        "genres": [
+            "adult standards",
+            "british invasion",
+            "soul",
+            "vocal jazz"
+        ],
+        "audio_features": {
+            "danceability": 0.776,
+            "energy": 0.47,
+            "key": 4,
+            "loudness": -10.308,
+            "mode": 0,
+            "speechiness": 0.0318,
+            "acousticness": 0.419,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "valence": 0.963,
+            "tempo": 106.329
+        }
+    }
+]

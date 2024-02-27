@@ -1,0 +1,14 @@
+{
+  "name": "@palewire/radar-chart",
+  "main": "0fd63adbeebaf94e@261.js",
+  "version": "261.0.0",
+  "homepage": "https://observablehq.com/@palewire/radar-chart",
+  "author": {
+    "name": "Ben Welsh",
+    "url": "https://observablehq.com/@palewire"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

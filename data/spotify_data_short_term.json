@@ -1,0 +1,1160 @@
+[
+    {
+        "track_id": "5oynsOy80DnodTslgaj3cr",
+        "track_name": "Marcy Me",
+        "artist_name": "JAY-Z",
+        "genres": [
+            "east coast hip hop",
+            "gangster rap",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.518,
+            "energy": 0.678,
+            "key": 10,
+            "loudness": -6.76,
+            "mode": 1,
+            "speechiness": 0.331,
+            "acousticness": 0.542,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "valence": 0.604,
+            "tempo": 81.951
+        }
+    },
+    {
+        "track_id": "4Zucyo10zPhTN0oIIn1i6U",
+        "track_name": "Love Theme From Chinatown (Main Title) - From The \"Chinatown\" Soundtrack",
+        "artist_name": "Jerry Goldsmith",
+        "genres": [
+            "classic soundtrack",
+            "orchestral soundtrack",
+            "soundtrack"
+        ],
+        "audio_features": {
+            "danceability": 0.214,
+            "energy": 0.272,
+            "key": 7,
+            "loudness": -11.59,
+            "mode": 0,
+            "speechiness": 0.0335,
+            "acousticness": 0.917,
+            "instrumentalness": 0.789,
+            "liveness": 0.2,
+            "valence": 0.0537,
+            "tempo": 40.244
+        }
+    },
+    {
+        "track_id": "2Th9BGKvfZG8bKQSACitwG",
+        "track_name": "It's Strange (feat. K.Flay)",
+        "artist_name": "Louis The Child",
+        "genres": [
+            "edm",
+            "electropop",
+            "indie poptimism"
+        ],
+        "audio_features": {
+            "danceability": 0.837,
+            "energy": 0.492,
+            "key": 0,
+            "loudness": -7.792,
+            "mode": 1,
+            "speechiness": 0.354,
+            "acousticness": 0.371,
+            "instrumentalness": 0.0401,
+            "liveness": 0.102,
+            "valence": 0.417,
+            "tempo": 85.951
+        }
+    },
+    {
+        "track_id": "20TYc2OwFNxPVFRT2LYmZH",
+        "track_name": "In the Shadows",
+        "artist_name": "Foreign Air",
+        "genres": [
+            "charlotte nc indie",
+            "indie poptimism",
+            "modern alternative rock"
+        ],
+        "audio_features": {
+            "danceability": 0.601,
+            "energy": 0.758,
+            "key": 0,
+            "loudness": -8.004,
+            "mode": 1,
+            "speechiness": 0.035,
+            "acousticness": 0.151,
+            "instrumentalness": 0.862,
+            "liveness": 0.11,
+            "valence": 0.153,
+            "tempo": 116.067
+        }
+    },
+    {
+        "track_id": "5NOfpkWNHGww2mwq2kIEzd",
+        "track_name": "New Beginning, Pt. 1",
+        "artist_name": "Andrew Hale",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.167,
+            "energy": 0.204,
+            "key": 9,
+            "loudness": -18.294,
+            "mode": 0,
+            "speechiness": 0.0364,
+            "acousticness": 0.835,
+            "instrumentalness": 0.825,
+            "liveness": 0.128,
+            "valence": 0.107,
+            "tempo": 96.144
+        }
+    },
+    {
+        "track_id": "2ej1A2Ze6P2EOW7KfIosZR",
+        "track_name": "Feather (feat. Cise Starr & Akin from CYNE)",
+        "artist_name": "Nujabes",
+        "genres": [
+            "ambeat",
+            "chillhop",
+            "downtempo",
+            "instrumental hip hop",
+            "japanese chillhop",
+            "japanese old school hip hop",
+            "jazz rap"
+        ],
+        "audio_features": {
+            "danceability": 0.565,
+            "energy": 0.749,
+            "key": 10,
+            "loudness": -6.629,
+            "mode": 0,
+            "speechiness": 0.0769,
+            "acousticness": 0.655,
+            "instrumentalness": 0.432,
+            "liveness": 0.106,
+            "valence": 0.881,
+            "tempo": 180.598
+        }
+    },
+    {
+        "track_id": "6mVrqlTUninHOk7W8vOive",
+        "track_name": "Midnight Muse",
+        "artist_name": "Hollywood Trailer Music Orchestra",
+        "genres": [
+            "epicore"
+        ],
+        "audio_features": {
+            "danceability": 0.266,
+            "energy": 0.241,
+            "key": 0,
+            "loudness": -7.902,
+            "mode": 0,
+            "speechiness": 0.0318,
+            "acousticness": 0.736,
+            "instrumentalness": 0.808,
+            "liveness": 0.124,
+            "valence": 0.129,
+            "tempo": 108.358
+        }
+    },
+    {
+        "track_id": "2PeKCn8NSGQXAHONaCh3wB",
+        "track_name": "Dangerous",
+        "artist_name": "Big Data",
+        "genres": [
+            "metropopolis",
+            "modern alternative rock"
+        ],
+        "audio_features": {
+            "danceability": 0.756,
+            "energy": 0.578,
+            "key": 0,
+            "loudness": -3.886,
+            "mode": 1,
+            "speechiness": 0.0386,
+            "acousticness": 0.011,
+            "instrumentalness": 0.00645,
+            "liveness": 0.127,
+            "valence": 0.955,
+            "tempo": 102.96
+        }
+    },
+    {
+        "track_id": "1mnqraQ8oV8MX92rdOFLWW",
+        "track_name": "1 Thing",
+        "artist_name": "Amerie",
+        "genres": [
+            "contemporary r&b",
+            "hip pop",
+            "neo soul",
+            "r&b",
+            "urban contemporary"
+        ],
+        "audio_features": {
+            "danceability": 0.612,
+            "energy": 0.961,
+            "key": 10,
+            "loudness": -3.078,
+            "mode": 0,
+            "speechiness": 0.333,
+            "acousticness": 0.107,
+            "instrumentalness": 4.17e-05,
+            "liveness": 0.0413,
+            "valence": 0.867,
+            "tempo": 129.873
+        }
+    },
+    {
+        "track_id": "2ey8VvW7LS4G0q9xtgEtBA",
+        "track_name": "Feelin' It",
+        "artist_name": "JAY-Z",
+        "genres": [
+            "east coast hip hop",
+            "gangster rap",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.558,
+            "energy": 0.703,
+            "key": 10,
+            "loudness": -7.851,
+            "mode": 1,
+            "speechiness": 0.304,
+            "acousticness": 0.322,
+            "instrumentalness": 0,
+            "liveness": 0.376,
+            "valence": 0.709,
+            "tempo": 81.849
+        }
+    },
+    {
+        "track_id": "7dFGkZbmm6cVlI28bfMaWE",
+        "track_name": "Righteous Minds",
+        "artist_name": "Joey Bada$$",
+        "genres": [
+            "conscious hip hop",
+            "hip hop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.809,
+            "energy": 0.638,
+            "key": 8,
+            "loudness": -5.646,
+            "mode": 0,
+            "speechiness": 0.28,
+            "acousticness": 0.262,
+            "instrumentalness": 0,
+            "liveness": 0.453,
+            "valence": 0.608,
+            "tempo": 94.893
+        }
+    },
+    {
+        "track_id": "5YpZh8wfS4moRBk0ijNcXr",
+        "track_name": "Harder Than You Think",
+        "artist_name": "Public Enemy",
+        "genres": [
+            "conscious hip hop",
+            "east coast hip hop",
+            "golden age hip hop",
+            "hardcore hip hop",
+            "hip hop",
+            "old school hip hop",
+            "political hip hop"
+        ],
+        "audio_features": {
+            "danceability": 0.484,
+            "energy": 0.852,
+            "key": 11,
+            "loudness": -4.442,
+            "mode": 0,
+            "speechiness": 0.274,
+            "acousticness": 0.0317,
+            "instrumentalness": 0,
+            "liveness": 0.0547,
+            "valence": 0.766,
+            "tempo": 103.578
+        }
+    },
+    {
+        "track_id": "1KOXaUQCRN7O8NHA3rYeVm",
+        "track_name": "Seeyaanotherday - Colossi Rah Remix",
+        "artist_name": "Colossi Rah",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.756,
+            "energy": 0.796,
+            "key": 6,
+            "loudness": -10.164,
+            "mode": 0,
+            "speechiness": 0.0331,
+            "acousticness": 0.0332,
+            "instrumentalness": 0.413,
+            "liveness": 0.66,
+            "valence": 0.393,
+            "tempo": 127.973
+        }
+    },
+    {
+        "track_id": "5BoOzegGrg5XFRR8UBDtkF",
+        "track_name": "Broken Whiskey Glass",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.512,
+            "energy": 0.673,
+            "key": 0,
+            "loudness": -7.359,
+            "mode": 1,
+            "speechiness": 0.0523,
+            "acousticness": 0.289,
+            "instrumentalness": 3.04e-06,
+            "liveness": 0.126,
+            "valence": 0.11,
+            "tempo": 99.84
+        }
+    },
+    {
+        "track_id": "4RYwE31p4KflK1h7J7m1Yt",
+        "track_name": "Spooky (Single Version)",
+        "artist_name": "Dusty Springfield",
+        "genres": [
+            "adult standards",
+            "british invasion",
+            "soul",
+            "vocal jazz"
+        ],
+        "audio_features": {
+            "danceability": 0.776,
+            "energy": 0.47,
+            "key": 4,
+            "loudness": -10.308,
+            "mode": 0,
+            "speechiness": 0.0318,
+            "acousticness": 0.419,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "valence": 0.963,
+            "tempo": 106.329
+        }
+    },
+    {
+        "track_id": "7ubd6wvhN4TKMwQUy6hR69",
+        "track_name": "Ladyfingers",
+        "artist_name": "Herb Alpert & The Tijuana Brass",
+        "genres": [
+            "easy listening",
+            "lounge"
+        ],
+        "audio_features": {
+            "danceability": 0.347,
+            "energy": 0.299,
+            "key": 3,
+            "loudness": -14.462,
+            "mode": 1,
+            "speechiness": 0.0401,
+            "acousticness": 0.979,
+            "instrumentalness": 0.93,
+            "liveness": 0.178,
+            "valence": 0.556,
+            "tempo": 86.15
+        }
+    },
+    {
+        "track_id": "3wbStGLUrWpzsoiQ3Ojn2H",
+        "track_name": "Hands - Samaran Remix",
+        "artist_name": "Point Point",
+        "genres": [
+            "vapor twitch"
+        ],
+        "audio_features": {
+            "danceability": 0.816,
+            "energy": 0.662,
+            "key": 11,
+            "loudness": -7.514,
+            "mode": 0,
+            "speechiness": 0.0708,
+            "acousticness": 0.0556,
+            "instrumentalness": 0.0996,
+            "liveness": 0.0631,
+            "valence": 0.325,
+            "tempo": 117.964
+        }
+    },
+    {
+        "track_id": "4r8aHCSHA98P1BYqvJN8kI",
+        "track_name": "Manhattan Skyline",
+        "artist_name": "David Shire",
+        "genres": [
+            "classic soundtrack"
+        ],
+        "audio_features": {
+            "danceability": 0.546,
+            "energy": 0.567,
+            "key": 7,
+            "loudness": -10.944,
+            "mode": 0,
+            "speechiness": 0.0396,
+            "acousticness": 0.154,
+            "instrumentalness": 0.853,
+            "liveness": 0.411,
+            "valence": 0.764,
+            "tempo": 123.921
+        }
+    },
+    {
+        "track_id": "5DLTuH4A5VZB2HKpqHQR6t",
+        "track_name": "Patient",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.743,
+            "energy": 0.662,
+            "key": 5,
+            "loudness": -6.108,
+            "mode": 0,
+            "speechiness": 0.179,
+            "acousticness": 0.565,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "valence": 0.552,
+            "tempo": 89.975
+        }
+    },
+    {
+        "track_id": "5yuShbu70mtHXY0yLzCQLQ",
+        "track_name": "Go Flex",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.665,
+            "energy": 0.498,
+            "key": 5,
+            "loudness": -8.185,
+            "mode": 1,
+            "speechiness": 0.0832,
+            "acousticness": 0.228,
+            "instrumentalness": 0,
+            "liveness": 0.0757,
+            "valence": 0.127,
+            "tempo": 81.967
+        }
+    },
+    {
+        "track_id": "6M0IsaUX4GNyto4niSegfI",
+        "track_name": "No Option",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.575,
+            "energy": 0.734,
+            "key": 2,
+            "loudness": -4.949,
+            "mode": 1,
+            "speechiness": 0.057,
+            "acousticness": 0.0757,
+            "instrumentalness": 0,
+            "liveness": 0.241,
+            "valence": 0.494,
+            "tempo": 83.986
+        }
+    },
+    {
+        "track_id": "6eT7xZZlB2mwyzJ2sUKG6w",
+        "track_name": "White Iverson",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.675,
+            "energy": 0.562,
+            "key": 7,
+            "loudness": -7.678,
+            "mode": 1,
+            "speechiness": 0.0352,
+            "acousticness": 0.233,
+            "instrumentalness": 0,
+            "liveness": 0.0816,
+            "valence": 0.309,
+            "tempo": 130.098
+        }
+    },
+    {
+        "track_id": "02opp1cycqiFNDpLd2o1J3",
+        "track_name": "Big Lie",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.442,
+            "energy": 0.684,
+            "key": 6,
+            "loudness": -4.888,
+            "mode": 0,
+            "speechiness": 0.168,
+            "acousticness": 0.191,
+            "instrumentalness": 0,
+            "liveness": 0.0725,
+            "valence": 0.218,
+            "tempo": 170.861
+        }
+    },
+    {
+        "track_id": "1QWmKmqhv5zcsS3v45FNl0",
+        "track_name": "Cold",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.67,
+            "energy": 0.572,
+            "key": 4,
+            "loudness": -7.312,
+            "mode": 0,
+            "speechiness": 0.0415,
+            "acousticness": 0.647,
+            "instrumentalness": 4.72e-06,
+            "liveness": 0.104,
+            "valence": 0.259,
+            "tempo": 132.98
+        }
+    },
+    {
+        "track_id": "75ZvA4QfFiZvzhj2xkaWAh",
+        "track_name": "I Fall Apart",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.556,
+            "energy": 0.538,
+            "key": 8,
+            "loudness": -5.408,
+            "mode": 0,
+            "speechiness": 0.0382,
+            "acousticness": 0.0689,
+            "instrumentalness": 0,
+            "liveness": 0.196,
+            "valence": 0.291,
+            "tempo": 143.95
+        }
+    },
+    {
+        "track_id": "7MTIDmToGs0I5Oue9V0CHl",
+        "track_name": "Feel",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.497,
+            "energy": 0.507,
+            "key": 5,
+            "loudness": -8.075,
+            "mode": 0,
+            "speechiness": 0.0585,
+            "acousticness": 0.214,
+            "instrumentalness": 4.79e-06,
+            "liveness": 0.0948,
+            "valence": 0.192,
+            "tempo": 119.432
+        }
+    },
+    {
+        "track_id": "0ZAiqymvbQUZAh9y6ZT3Rm",
+        "track_name": "XO",
+        "artist_name": "EDEN",
+        "genres": [
+            "indie poptimism"
+        ],
+        "audio_features": {
+            "danceability": 0.611,
+            "energy": 0.39,
+            "key": 2,
+            "loudness": -5.861,
+            "mode": 0,
+            "speechiness": 0.116,
+            "acousticness": 0.625,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "valence": 0.617,
+            "tempo": 163.897
+        }
+    },
+    {
+        "track_id": "1IqF5PUDUnaykHLs0RWbDO",
+        "track_name": "Time Moves Slow",
+        "artist_name": "BADBADNOTGOOD",
+        "genres": [
+            "canadian modern jazz",
+            "indie soul"
+        ],
+        "audio_features": {
+            "danceability": 0.591,
+            "energy": 0.376,
+            "key": 11,
+            "loudness": -10.832,
+            "mode": 0,
+            "speechiness": 0.0543,
+            "acousticness": 0.478,
+            "instrumentalness": 0.0282,
+            "liveness": 0.101,
+            "valence": 0.308,
+            "tempo": 140.026
+        }
+    },
+    {
+        "track_id": "4B61IBnoLZOUO3RWRVzUJ1",
+        "track_name": "Speaking Gently",
+        "artist_name": "BADBADNOTGOOD",
+        "genres": [
+            "canadian modern jazz",
+            "indie soul"
+        ],
+        "audio_features": {
+            "danceability": 0.297,
+            "energy": 0.83,
+            "key": 5,
+            "loudness": -5.168,
+            "mode": 0,
+            "speechiness": 0.0404,
+            "acousticness": 5.99e-05,
+            "instrumentalness": 0.822,
+            "liveness": 0.113,
+            "valence": 0.511,
+            "tempo": 77.84
+        }
+    },
+    {
+        "track_id": "4aHNpAIE8kD1NLIsyhQ6Kl",
+        "track_name": "Dweller On the Threshold",
+        "artist_name": "Van Morrison",
+        "genres": [
+            "classic rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "audio_features": {
+            "danceability": 0.604,
+            "energy": 0.838,
+            "key": 7,
+            "loudness": -8.23,
+            "mode": 1,
+            "speechiness": 0.03,
+            "acousticness": 0.237,
+            "instrumentalness": 0.00163,
+            "liveness": 0.136,
+            "valence": 0.959,
+            "tempo": 102.372
+        }
+    },
+    {
+        "track_id": "0H8XeaJunhvpBdBFIYi6Sh",
+        "track_name": "Deja Vu",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.62,
+            "energy": 0.69,
+            "key": 7,
+            "loudness": -6.508,
+            "mode": 1,
+            "speechiness": 0.0493,
+            "acousticness": 0.0931,
+            "instrumentalness": 0,
+            "liveness": 0.131,
+            "valence": 0.331,
+            "tempo": 133.935
+        }
+    },
+    {
+        "track_id": "4SYUUlkScpNR1QvPscXf8t",
+        "track_name": "Too Young",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.602,
+            "energy": 0.635,
+            "key": 4,
+            "loudness": -6.526,
+            "mode": 0,
+            "speechiness": 0.052,
+            "acousticness": 0.271,
+            "instrumentalness": 3.2e-05,
+            "liveness": 0.0829,
+            "valence": 0.225,
+            "tempo": 123.05
+        }
+    },
+    {
+        "track_id": "1DdIcvg2SZ3C8INMoEoHzR",
+        "track_name": "Every 1's a Winner",
+        "artist_name": "Hot Chocolate",
+        "genres": [
+            "disco"
+        ],
+        "audio_features": {
+            "danceability": 0.721,
+            "energy": 0.539,
+            "key": 10,
+            "loudness": -7.36,
+            "mode": 1,
+            "speechiness": 0.0293,
+            "acousticness": 0.0584,
+            "instrumentalness": 0.528,
+            "liveness": 0.136,
+            "valence": 0.929,
+            "tempo": 107.845
+        }
+    },
+    {
+        "track_id": "17OuKkiebmFZ4rdpE6eqt5",
+        "track_name": "I Don't Wanna Fight Anymore",
+        "artist_name": "Similar Kind",
+        "genres": [],
+        "audio_features": {
+            "danceability": 0.546,
+            "energy": 0.819,
+            "key": 7,
+            "loudness": -3.752,
+            "mode": 1,
+            "speechiness": 0.0304,
+            "acousticness": 0.354,
+            "instrumentalness": 0,
+            "liveness": 0.162,
+            "valence": 0.744,
+            "tempo": 134.002
+        }
+    },
+    {
+        "track_id": "2rKmNEYrQxaOPZrOWKZpOc",
+        "track_name": "Up There",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.654,
+            "energy": 0.378,
+            "key": 5,
+            "loudness": -8.108,
+            "mode": 0,
+            "speechiness": 0.0322,
+            "acousticness": 0.373,
+            "instrumentalness": 1.07e-05,
+            "liveness": 0.0971,
+            "valence": 0.437,
+            "tempo": 72.976
+        }
+    },
+    {
+        "track_id": "6DIMM15oo3kxnCuVypaYGy",
+        "track_name": "Give Up Baby Go",
+        "artist_name": "Peach Pit",
+        "genres": [
+            "pov: indie",
+            "vancouver indie"
+        ],
+        "audio_features": {
+            "danceability": 0.683,
+            "energy": 0.697,
+            "key": 9,
+            "loudness": -6.703,
+            "mode": 1,
+            "speechiness": 0.025,
+            "acousticness": 0.169,
+            "instrumentalness": 2.46e-06,
+            "liveness": 0.0527,
+            "valence": 0.591,
+            "tempo": 96.729
+        }
+    },
+    {
+        "track_id": "0LpiKjWMfZTkPPHonlM8nB",
+        "track_name": "Yours Truly, Austin Post",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.649,
+            "energy": 0.618,
+            "key": 6,
+            "loudness": -5.694,
+            "mode": 1,
+            "speechiness": 0.0672,
+            "acousticness": 0.483,
+            "instrumentalness": 2.53e-06,
+            "liveness": 0.166,
+            "valence": 0.421,
+            "tempo": 125.977
+        }
+    },
+    {
+        "track_id": "10eJrY01y41xnCsDMCcsQG",
+        "track_name": "Daylight",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.66,
+            "energy": 0.459,
+            "key": 0,
+            "loudness": -8.973,
+            "mode": 1,
+            "speechiness": 0.0294,
+            "acousticness": 0.308,
+            "instrumentalness": 0.000903,
+            "liveness": 0.0996,
+            "valence": 0.188,
+            "tempo": 119.959
+        }
+    },
+    {
+        "track_id": "4amKdB9jtmL3Tw7nRvACNU",
+        "track_name": "Easy Living - From The \"Chinatown\" Soundtrack",
+        "artist_name": "Jerry Goldsmith",
+        "genres": [
+            "classic soundtrack",
+            "orchestral soundtrack",
+            "soundtrack"
+        ],
+        "audio_features": {
+            "danceability": 0.473,
+            "energy": 0.064,
+            "key": 8,
+            "loudness": -18.448,
+            "mode": 1,
+            "speechiness": 0.0591,
+            "acousticness": 0.995,
+            "instrumentalness": 0.919,
+            "liveness": 0.13,
+            "valence": 0.222,
+            "tempo": 72.591
+        }
+    },
+    {
+        "track_id": "61jnrkPHpLumBf1kqGpRRt",
+        "track_name": "Hit This Hard",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.628,
+            "energy": 0.553,
+            "key": 0,
+            "loudness": -8.967,
+            "mode": 1,
+            "speechiness": 0.0472,
+            "acousticness": 0.294,
+            "instrumentalness": 0.00551,
+            "liveness": 0.0825,
+            "valence": 0.367,
+            "tempo": 140.026
+        }
+    },
+    {
+        "track_id": "6Xt6sLlLslQeg6PVVJnoZE",
+        "track_name": "Jake And Evelyn - From The \"Chinatown\" Soundtrack",
+        "artist_name": "Jerry Goldsmith",
+        "genres": [
+            "classic soundtrack",
+            "orchestral soundtrack",
+            "soundtrack"
+        ],
+        "audio_features": {
+            "danceability": 0.156,
+            "energy": 0.164,
+            "key": 0,
+            "loudness": -16.283,
+            "mode": 1,
+            "speechiness": 0.0358,
+            "acousticness": 0.962,
+            "instrumentalness": 0.928,
+            "liveness": 0.102,
+            "valence": 0.0369,
+            "tempo": 66.336
+        }
+    },
+    {
+        "track_id": "01z2fBGB8Hl3Jd3zXe4IXR",
+        "track_name": "Come Back to Earth",
+        "artist_name": "Mac Miller",
+        "genres": [
+            "hip hop",
+            "pittsburgh rap",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.272,
+            "energy": 0.238,
+            "key": 2,
+            "loudness": -12.148,
+            "mode": 0,
+            "speechiness": 0.0349,
+            "acousticness": 0.89,
+            "instrumentalness": 0.00925,
+            "liveness": 0.275,
+            "valence": 0.119,
+            "tempo": 83.507
+        }
+    },
+    {
+        "track_id": "1VJgMkxFY3JSgiUWZNeycd",
+        "track_name": "Until the Sun Needs to Rise",
+        "artist_name": "R\u00dcF\u00dcS DU SOL",
+        "genres": [
+            "australian electropop",
+            "indietronica"
+        ],
+        "audio_features": {
+            "danceability": 0.726,
+            "energy": 0.691,
+            "key": 8,
+            "loudness": -8.033,
+            "mode": 1,
+            "speechiness": 0.0337,
+            "acousticness": 0.011,
+            "instrumentalness": 0.294,
+            "liveness": 0.0916,
+            "valence": 0.118,
+            "tempo": 119.996
+        }
+    },
+    {
+        "track_id": "1WOwGVtrVWtV3WW7X4TZoB",
+        "track_name": "Public Service Announcement (Interlude)",
+        "artist_name": "JAY-Z",
+        "genres": [
+            "east coast hip hop",
+            "gangster rap",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.446,
+            "energy": 0.96,
+            "key": 1,
+            "loudness": -1.144,
+            "mode": 1,
+            "speechiness": 0.619,
+            "acousticness": 0.37,
+            "instrumentalness": 4.09e-06,
+            "liveness": 0.493,
+            "valence": 0.443,
+            "tempo": 177.025
+        }
+    },
+    {
+        "track_id": "5dI1yHSqgmilFEqpGbqxHh",
+        "track_name": "Leave",
+        "artist_name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "pop",
+            "rap"
+        ],
+        "audio_features": {
+            "danceability": 0.535,
+            "energy": 0.55,
+            "key": 4,
+            "loudness": -7.249,
+            "mode": 1,
+            "speechiness": 0.0229,
+            "acousticness": 0.246,
+            "instrumentalness": 0.000105,
+            "liveness": 0.124,
+            "valence": 0.619,
+            "tempo": 90.086
+        }
+    },
+    {
+        "track_id": "0Dyja5GxdxI41uow2mb0Nd",
+        "track_name": "If It Doesn't Come Naturally Leave It - 2001 Remaster",
+        "artist_name": "Al Stewart",
+        "genres": [
+            "art rock",
+            "folk rock",
+            "mellow gold",
+            "progressive rock",
+            "singer-songwriter",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "audio_features": {
+            "danceability": 0.637,
+            "energy": 0.594,
+            "key": 2,
+            "loudness": -11.489,
+            "mode": 1,
+            "speechiness": 0.034,
+            "acousticness": 0.0216,
+            "instrumentalness": 1.65e-05,
+            "liveness": 0.0666,
+            "valence": 0.796,
+            "tempo": 139.107
+        }
+    },
+    {
+        "track_id": "1UMF4tcuC8J1XpJ1qp9Ws3",
+        "track_name": "Gungala nido",
+        "artist_name": "Luigi Malatesta",
+        "genres": [
+            "italian library music"
+        ],
+        "audio_features": {
+            "danceability": 0.54,
+            "energy": 0.518,
+            "key": 8,
+            "loudness": -9.475,
+            "mode": 1,
+            "speechiness": 0.0313,
+            "acousticness": 0.763,
+            "instrumentalness": 0.00577,
+            "liveness": 0.0973,
+            "valence": 0.735,
+            "tempo": 90.256
+        }
+    },
+    {
+        "track_id": "1VXSMrIa0cRNd1dWNaxwkl",
+        "track_name": "Noah Cross - From The \"Chinatown\" Soundtrack",
+        "artist_name": "Jerry Goldsmith",
+        "genres": [
+            "classic soundtrack",
+            "orchestral soundtrack",
+            "soundtrack"
+        ],
+        "audio_features": {
+            "danceability": 0.282,
+            "energy": 0.368,
+            "key": 4,
+            "loudness": -14.523,
+            "mode": 0,
+            "speechiness": 0.0359,
+            "acousticness": 0.619,
+            "instrumentalness": 0.111,
+            "liveness": 0.102,
+            "valence": 0.0397,
+            "tempo": 65.097
+        }
+    },
+    {
+        "track_id": "2BXKIOSiQb4FqPmhb05mWw",
+        "track_name": "From 2 to 3",
+        "artist_name": "Peach Pit",
+        "genres": [
+            "pov: indie",
+            "vancouver indie"
+        ],
+        "audio_features": {
+            "danceability": 0.643,
+            "energy": 0.536,
+            "key": 9,
+            "loudness": -6.646,
+            "mode": 1,
+            "speechiness": 0.0253,
+            "acousticness": 0.458,
+            "instrumentalness": 0.00144,
+            "liveness": 0.11,
+            "valence": 0.17,
+            "tempo": 80.031
+        }
+    },
+    {
+        "track_id": "2i41cbh8c7ZEOlsLO1Q1LK",
+        "track_name": "I Can't Get Started - From The \"Chinatown\" Soundtrack",
+        "artist_name": "Bunny Berigan and His Orchestra",
+        "genres": [
+            "man's orchestra",
+            "new orleans jazz"
+        ],
+        "audio_features": {
+            "danceability": 0.332,
+            "energy": 0.463,
+            "key": 0,
+            "loudness": -7.671,
+            "mode": 1,
+            "speechiness": 0.0415,
+            "acousticness": 0.953,
+            "instrumentalness": 0.68,
+            "liveness": 0.323,
+            "valence": 0.476,
+            "tempo": 72.836
+        }
+    }
+]

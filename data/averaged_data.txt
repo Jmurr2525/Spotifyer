@@ -1,0 +1,104 @@
+var data = [
+  [
+    {
+      "axis": "Danceability",
+      "value": 0.56
+    },
+    {
+      "axis": "Energy",
+      "value": 0.57
+    },
+    {
+      "axis": "Mode",
+      "value": 0.54
+    },
+    {
+      "axis": "Speechiness",
+      "value": 0.09
+    },
+    {
+      "axis": "Acousticness",
+      "value": 0.38
+    },
+    {
+      "axis": "Instrumentalness",
+      "value": 0.21
+    },
+    {
+      "axis": "Liveness",
+      "value": 0.16
+    },
+    {
+      "axis": "Valence",
+      "value": 0.44
+    },
+  ],
+  [
+    {
+      "axis": "Danceability",
+      "value": 0.62
+    },
+    {
+      "axis": "Energy",
+      "value": 0.58
+    },
+    {
+      "axis": "Mode",
+      "value": 0.58
+    },
+    {
+      "axis": "Speechiness",
+      "value": 0.07
+    },
+    {
+      "axis": "Acousticness",
+      "value": 0.35
+    },
+    {
+      "axis": "Instrumentalness",
+      "value": 0.24
+    },
+    {
+      "axis": "Liveness",
+      "value": 0.17
+    },
+    {
+      "axis": "Valence",
+      "value": 0.55
+    },
+  ],
+  [
+    {
+      "axis": "Danceability",
+      "value": 0.59
+    },
+    {
+      "axis": "Energy",
+      "value": 0.63
+    },
+    {
+      "axis": "Mode",
+      "value": 0.54
+    },
+    {
+      "axis": "Speechiness",
+      "value": 0.07
+    },
+    {
+      "axis": "Acousticness",
+      "value": 0.26
+    },
+    {
+      "axis": "Instrumentalness",
+      "value": 0.17
+    },
+    {
+      "axis": "Liveness",
+      "value": 0.22
+    },
+    {
+      "axis": "Valence",
+      "value": 0.4
+    },
+  ]
+];
